@@ -1,0 +1,17 @@
+The features of the system which connects between both the users are as follows:
+
+1.Vacancy availability check
+2. Doctors availability check
+3. pay of a specific treatment
+4. working hours of all the hospitals
+5. Find hospital services by enterning hospital name
+6. Find which hospital would solve the health issue by entering disease or health problem name
+7. enables registered patients to provide reviews who have completed the treatment in the hospital.
+
+8.helps the users to store prescribed medicines information and help them to edit and make changes, so that they can have an idea of what all medicines they still need to buy.
+9. The system tells if the specialised doctors corresponding to a health issue are available or not
+10.Suggestions given by the doctors for a treatment or common health issues
+11.Provides a query section to the developers such that users can contact the system developers any time.
+12. 24*7 Service
+13. very secured database to protect the information
+14. They can check the nearest hospital available
